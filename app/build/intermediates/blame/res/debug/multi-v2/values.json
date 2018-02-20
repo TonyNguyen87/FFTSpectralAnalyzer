@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tonynguyen/work/src/github.com/TonyNguyen87/FFTSpectralAnalyzer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/tonynguyen/work/src/github.com/TonyNguyen87/FFTSpectralAnalyzer/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "58",
+                        "endOffsets": "111"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
